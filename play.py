@@ -3,7 +3,7 @@
 A command line program for playing a single game between two bots.
 
 For all the options run
-python play.py -h
+python play.py -h 
 """
 
 from argparse import ArgumentParser
